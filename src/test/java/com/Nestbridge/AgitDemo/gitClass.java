@@ -5,5 +5,8 @@ public class gitClass {
         int a= 1;
                 String b="Elizabeth";
         System.out.println(b);
+        System.out.println(a);
+        System.out.println("to merge");
+
     }
 }
